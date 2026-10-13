@@ -105,7 +105,7 @@ jobs:
                           android:layout_height="wrap_content"
                           android:text="100%"
                           android:textColor="#FFFFFF"
-                          MoonProcessor.kt:108:51 No set method providing array access
+                          android:textSize="13sp" />
                   </LinearLayout>
                   <SeekBar
                       android:id="@+id/sharpBar"
